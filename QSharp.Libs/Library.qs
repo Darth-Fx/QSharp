@@ -140,7 +140,7 @@
         }
     }
 
-	operation Set (desired: Result, q1: Qubit) : ()
+	operation Set (desired: Result, q1: Qubit) : Unit
     {
         body
         {
